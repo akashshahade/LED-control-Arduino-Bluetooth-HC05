@@ -1,5 +1,5 @@
 
-// BY - AKASH SHAHADE
+// Software By - AKASH SHAHADE
 
 
 char val;         // variable to receive data from the serial port
